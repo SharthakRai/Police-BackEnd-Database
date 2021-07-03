@@ -1,0 +1,35 @@
+Name: Sharthak Raj Rai
+Username: laysrr
+Student ID: 14314886
+
+Mersey database:
+-Hostname = mersey.cs.nott.ac.uk
+-username = laysrr
+-password =
+-database = dis_cw2
+
+XAMPP database:
+-Hostname = localhost
+-username = root
+-password =
+-database = dis_cw2
+
+
+List of all the files:
+-changePass.php
+-changePw.php
+-config.php
+-edit.php
+-editcode.php
+-home.php
+-incident.php
+-index.php
+-insert.php
+-login.php
+-logout.php
+-report.php
+-search.php
+-vehicle.php
+-dis_cw2.sql
+-laysrr_UserManual.pdf
+-laysrr_Technical.pdf
