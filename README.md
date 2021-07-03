@@ -1,2 +1,2 @@
-# Police-Website-Database
-PHP | MySQL (Back-end &amp; Database focus)
+# Police Back-end & Database (PHP & MySQL)
+PHP | MySQL (Back-end & Database focus)
